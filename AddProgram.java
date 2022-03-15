@@ -6,8 +6,8 @@ public class AddProgram {
         int firstNum = 1;
         System.out.println("2nd Number: 40");
         int secNum = 40;
-        int sum = firstNum + secNum;
-        System.out.println("1 + 40 = " +  sum);
+        int difference = firstNum - secNum;
+        System.out.println("1 - 40 = " +  difference);
 
     }
 }
